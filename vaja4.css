@@ -90,3 +90,9 @@ span {
     color: salmon;
     font-style: italic;
 }
+
+.buttons {
+background-color: white;
+display: flex;
+align-items: center
+}
